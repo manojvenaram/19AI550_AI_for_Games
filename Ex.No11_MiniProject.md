@@ -1,6 +1,6 @@
 # Ex.No: 11  Mini Project 
 ### DATE: 27/09/24                                                                           
-### REGISTER NUMBER : 212221240044
+### REGISTER NUMBER : 212221240025
 ### AIM: 
 To write a python program to simulate the game using Minmax Algorithm.
 ### Algorithm:
