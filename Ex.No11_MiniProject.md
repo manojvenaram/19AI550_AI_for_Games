@@ -60,7 +60,8 @@ The following algorithms are used to develop intelligent enemy and boss behavior
 ## **Gameplay Screenshot**
 
 Below are some gameplay screenshots showing different stages and enemy encounters.
-![image](https://github.com/user-attachments/assets/5e4502aa-34c9-4eed-93a6-1f09c465c82c
+![image](https://github.com/user-attachments/assets/b7068efd-792a-42d9-adc9-b12d5537fd77)
+
 ![image](https://github.com/user-attachments/assets/2630ad5b-e9b1-4d2f-87d8-2ed2aebae866)
 ![image](https://github.com/user-attachments/assets/0e02414d-20ee-4845-bb0f-4e07a9e563c0)
 ![image](https://github.com/user-attachments/assets/70a45755-fcfa-4d54-9b0b-dec07bde99a4)
